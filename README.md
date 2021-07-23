@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-## 📫 𝙷OW TO REACH ME:
+📫 𝙷OW TO REACH ME:
 
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
