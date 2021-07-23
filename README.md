@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Jesy's profile!
+  𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙹𝚎𝚜𝚢'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# TECHNOLOGIES
+# 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂
 
   <img src="https://user-images.githubusercontent.com/81963107/126787359-fc4a24e3-99b8-4a85-9c16-be4c460b96a0.png" width="50%"/>
 
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- You can ask me anything whatever you want😄<br/>
- I am looking forward to absorb knowledge🧠<br/>
- Gain experience 🏤<br/>
- Collaborate🤝 <br/>
- And build amazing products for the world🌍! <br/>
+ 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚠𝚑𝚊𝚝𝚎𝚟𝚎𝚛 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝😄<br/>
+ 𝙸 𝚊𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚊𝚋𝚜𝚘𝚛𝚋 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎🧠<br/>
+ 𝙶𝚊𝚒𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 🏤<br/>
+ 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎🤝 <br/>
+ 𝙰𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍🌍! <br/>
   </div>
   
  <div align="center">
