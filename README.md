@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+# TECHNOLOGIES
+</div>
+![1techno](https://user-images.githubusercontent.com/81963107/126787359-fc4a24e3-99b8-4a85-9c16-be4c460b96a0.png)
