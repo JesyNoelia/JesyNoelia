@@ -26,7 +26,18 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
 <div align="center">
+ 
+ You can ask me anything whatever you want😄<br/>
+ I am looking forward to absorb knowledge🧠<br/>
+ Gain experience 🏤<br/>
+ Collaborate🤝 <br/>
+ And build amazing products for the world🌍! <br/>
+  </div>
+  
+ <div align="center">
 📫 𝙷OW TO REACH ME:
 
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
