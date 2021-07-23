@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 
+--------
 
 <div align="center">
  
@@ -37,11 +38,20 @@ Here are some ideas to get you started:
  𝙰𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍🌍! <br/>
   </div>
   
+------  
+  
  <div align="center">
 📫 𝙷OW TO REACH ME:
 
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" height="40em" align="center" alt="Follow JesyNoelia on LinkedIn" title="Follow JesyNoelia on LinkedIn"/>](https://www.linkedin.com/in/jesica-cepero-pediconi/)
+[<img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" height="40em" alt="Follow JesyNoelia on LinkedIn" title="Follow JesyNoelia on LinkedIn"/>](https://www.linkedin.com/in/jesica-cepero-pediconi/)
 
 </div>
+
+
+***
+
+𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚐𝚛𝚘𝚠 𝚊𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚠𝚘𝚛𝚕𝚍?
+ [<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="20%" alt="Buy me a coffee" title="Buy me a coffee" align="center"/>](https://paypal.me/jesynoelia?locale.x=es_ES)
+
