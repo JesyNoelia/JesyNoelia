@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂
 
-  <img src="https://user-images.githubusercontent.com/81963107/126787359-fc4a24e3-99b8-4a85-9c16-be4c460b96a0.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/81963107/127023785-27303f3b-f4c5-4d87-b041-a77785cba807.png" width="50%"/>
 
 </div>
 
