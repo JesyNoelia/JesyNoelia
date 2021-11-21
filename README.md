@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 
 ***
 
-𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚐𝚛𝚘𝚠 𝚊𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚠𝚘𝚛𝚕𝚍?
- [<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="20%" alt="Buy me a coffee" title="Buy me a coffee" align="center"/>](https://paypal.me/jesynoelia?locale.x=es_ES)
+<!--𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚐𝚛𝚘𝚠 𝚊𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚠𝚘𝚛𝚕𝚍?
+ [<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="20%" alt="Buy me a coffee" title="Buy me a coffee" align="center"/>](https://paypal.me/jesynoelia?locale.x=es_ES)-->
 
